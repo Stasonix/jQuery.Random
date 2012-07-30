@@ -1,0 +1,13 @@
+﻿jQuery Random Number Plugin v. 1.0
+
+Using is very simple
+
+$.Random(m,n);
+
+where m - is minial int value and m - is maximal int value
+
+example
+
+document.write( $.Random(0,10) );
+
+this will return random value from 0 to 10.
