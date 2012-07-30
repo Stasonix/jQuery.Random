@@ -4,7 +4,7 @@ Using is very simple
 
 $.Random(m,n);
 
-where m - is minial int value and m - is maximal int value
+where m - is minimal int value and m - is maximal int value
 
 example
 
