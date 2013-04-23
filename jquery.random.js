@@ -1,3 +1,4 @@
+// jQuery Random function 1.0
 ﻿jQuery.Random = function(m,n)
 {
     m = parseInt(m);
