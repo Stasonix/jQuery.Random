@@ -1,6 +1,6 @@
 #﻿jQuery Random Number Plugin v. 1.0
 
-## Usage
+### Usage
 
 ```js
 $.Random(m,n);
